@@ -1,0 +1,9 @@
+
+QR코드 읽어오기
+https://wickedmagica.tistory.com/154
+https://github.com/cozmo/jsQR
+https://codesandbox.io/s/p9uzhw?file=/src/index.js
+
+QR코드 만들기
+https://www.npmjs.com/package/react-qr-code
+https://github.com/rosskhanas/react-qr-code
